@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nurda\\Desktop\\C#\\School\\School\\School.csproj": {}
+    "C:\\Users\\nurda\\Desktop\\C#\\school-app\\School\\School.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nurda\\Desktop\\C#\\School\\School\\School.csproj": {
+    "C:\\Users\\nurda\\Desktop\\C#\\school-app\\School\\School.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nurda\\Desktop\\C#\\School\\School\\School.csproj",
+        "projectUniqueName": "C:\\Users\\nurda\\Desktop\\C#\\school-app\\School\\School.csproj",
         "projectName": "School",
-        "projectPath": "C:\\Users\\nurda\\Desktop\\C#\\School\\School\\School.csproj",
+        "projectPath": "C:\\Users\\nurda\\Desktop\\C#\\school-app\\School\\School.csproj",
         "packagesPath": "C:\\Users\\nurda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nurda\\Desktop\\C#\\School\\School\\obj\\",
+        "outputPath": "C:\\Users\\nurda\\Desktop\\C#\\school-app\\School\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nurda\\AppData\\Roaming\\NuGet\\NuGet.Config",
